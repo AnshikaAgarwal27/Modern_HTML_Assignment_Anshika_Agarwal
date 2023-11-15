@@ -1,0 +1,13 @@
+HTML5 Features:
+
+1. Video and Audio Features:
+HTML5 has two crucial additions: audio and video tags. It enables web developers to include a video or audio file on their pages. 
+
+2. Header and Footer:
+These new tags eliminate the requirement for a div> tag to separate the two parts. The footer appears at the bottom of the page, whereas the header appears at the top.
+
+3. Placeholders 
+To make placeholders for text boxes before, we had to use a little JavaScript
+
+4. Canvas:
+A canvas is a rectangular area that may be used to conduct pixel-level operations such as drawing a line, box, circle, or executing graphics, among other things
